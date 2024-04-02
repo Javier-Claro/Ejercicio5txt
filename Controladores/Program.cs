@@ -13,7 +13,7 @@ namespace Ejercicio5txt.Controladores
             OperativaIntfz oi = new OperativaImpl();
             int opcionSeleccionada;
             bool cerrarMenu = false;
-            string rutaFile = "C:\\Users\\csi22-jzarcia\\Desktop\\textoACambiar.txt";
+            string rutaFile = "C:\\Users\\JCB\\Desktop\\texto.txt";
 
             do
             {
